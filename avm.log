@@ -1,0 +1,392 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.6)  23 OCT 2019 14:33
+entering extended mode
+**./avm.tex
+(avm.tex
+LaTeX2e <2019-10-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@caption@flags=\count91
+\c@ContinuedFloat=\count92
+)
+\c@KVtest=\count93
+\sf@farskip=\skip43
+\sf@captopadj=\dimen120
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count94
+\c@subfigure@save=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@subtable@save=\count98
+\c@lotdepth=\count99
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2019/04/01 v2.17c AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen121
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen122
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen123
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip10
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks19
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks20
+\eqnshift@=\dimen124
+\alignsep@=\dimen125
+\tagshift@=\dimen126
+\tagwidth@=\dimen127
+\totwidth@=\dimen128
+\lineht@=\dimen129
+\@envbody=\toks21
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen130
+\ar@mcellbox=\box29
+\extrarowheight=\dimen131
+\NC@list=\toks23
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box30
+)
+\TX@col@width=\dimen132
+\TX@old@table=\dimen133
+\TX@old@col=\dimen134
+\TX@target=\dimen135
+\TX@delta=\dimen136
+\TX@cols=\count112
+\TX@ftn=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen137
+\lightrulewidth=\dimen138
+\cmidrulewidth=\dimen139
+\belowrulesep=\dimen140
+\belowbottomsep=\dimen141
+\aboverulesep=\dimen142
+\abovetopsep=\dimen143
+\cmidrulesep=\dimen144
+\cmidrulekern=\dimen145
+\defaultaddspace=\dimen146
+\@cmidla=\count113
+\@cmidlb=\count114
+\@aboverulesep=\dimen147
+\@belowrulesep=\dimen148
+\@thisruleclass=\count115
+\@lastruleclass=\count116
+\@thisrulewidth=\dimen149
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/paralist\paralist.sty"
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip53
+\plpartopsep=\skip54
+\plitemsep=\skip55
+\plparsep=\skip56
+\pl@lab=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fontspec\fontspec.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2019-10-02 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3-code.tex"
+Package: expl3 2019-10-02 L3 programming layer (code)
+\c_max_int=\count117
+\l_tmpa_int=\count118
+\l_tmpb_int=\count119
+\g_tmpa_int=\count120
+\g_tmpb_int=\count121
+\l__seq_internal_a_int=\count122
+\l__seq_internal_b_int=\count123
+\g__kernel_prg_map_int=\count124
+\c__ior_term_noprompt_ior=\count125
+\c_log_iow=\count126
+\l_iow_line_count_int=\count127
+\l__iow_line_target_int=\count128
+\l__iow_one_indent_int=\count129
+\l__iow_indent_int=\count130
+\c_zero_dim=\dimen150
+\c_max_dim=\dimen151
+\l_tmpa_dim=\dimen152
+\l_tmpb_dim=\dimen153
+\g_tmpa_dim=\dimen154
+\g_tmpb_dim=\dimen155
+\c_zero_skip=\skip57
+\c_max_skip=\skip58
+\l_tmpa_skip=\skip59
+\l_tmpb_skip=\skip60
+\g_tmpa_skip=\skip61
+\g_tmpb_skip=\skip62
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count131
+\l__intarray_loop_int=\count132
+\c__intarray_sp_dim=\dimen156
+\g__intarray_font_int=\count133
+\c__fp_leading_shift_int=\count134
+\c__fp_middle_shift_int=\count135
+\c__fp_trailing_shift_int=\count136
+\c__fp_big_leading_shift_int=\count137
+\c__fp_big_middle_shift_int=\count138
+\c__fp_big_trailing_shift_int=\count139
+\c__fp_Bigg_leading_shift_int=\count140
+\c__fp_Bigg_middle_shift_int=\count141
+\c__fp_Bigg_trailing_shift_int=\count142
+\c__kernel_randint_max_int=\count143
+\g__fp_array_int=\count144
+\l__fp_array_loop_int=\count145
+\l__sort_length_int=\count146
+\l__sort_min_int=\count147
+\l__sort_top_int=\count148
+\l__sort_max_int=\count149
+\l__sort_true_max_int=\count150
+\l__sort_block_int=\count151
+\l__sort_begin_int=\count152
+\l__sort_end_int=\count153
+\l__sort_A_int=\count154
+\l__sort_B_int=\count155
+\l__sort_C_int=\count156
+\l__str_internal_int=\count157
+\c__str_replacement_char_int=\count158
+\l__tl_analysis_normal_int=\count159
+\l__tl_analysis_index_int=\count160
+\l__tl_analysis_nesting_int=\count161
+\l__tl_analysis_type_int=\count162
+\l__regex_internal_a_int=\count163
+\l__regex_internal_b_int=\count164
+\l__regex_internal_c_int=\count165
+\l__regex_balance_int=\count166
+\l__regex_group_level_int=\count167
+\l__regex_mode_int=\count168
+\c__regex_cs_in_class_mode_int=\count169
+\c__regex_cs_mode_int=\count170
+\l__regex_catcodes_int=\count171
+\l__regex_default_catcodes_int=\count172
+\c__regex_catcode_D_int=\count173
+\c__regex_catcode_S_int=\count174
+\c__regex_catcode_L_int=\count175
+\c__regex_catcode_O_int=\count176
+\c__regex_catcode_A_int=\count177
+\c__regex_all_catcodes_int=\count178
+\l__regex_show_lines_int=\count179
+\l__regex_min_state_int=\count180
+\l__regex_max_state_int=\count181
+\l__regex_left_state_int=\count182
+\l__regex_right_state_int=\count183
+\l__regex_capturing_group_int=\count184
+\l__regex_min_pos_int=\count185
+\l__regex_max_pos_int=\count186
+\l__regex_curr_pos_int=\count187
+\l__regex_start_pos_int=\count188
+\l__regex_success_pos_int=\count189
+\l__regex_curr_char_int=\count190
+\l__regex_curr_catcode_int=\count191
+\l__regex_last_char_int=\count192
+\l__regex_case_changed_char_int=\count193
+\l__regex_curr_state_int=\count194
+\l__regex_step_int=\count195
+\l__regex_min_active_int=\count196
+\l__regex_max_active_int=\count197
+\l__regex_replacement_csnames_int=\count198
+\l__regex_match_count_int=\count199
+\l__regex_min_submatch_int=\count266
+\l__regex_submatch_int=\count267
+\l__regex_zeroth_submatch_int=\count268
+\g__regex_trace_regex_int=\count269
+\c_empty_box=\box31
+\l_tmpa_box=\box32
+\l_tmpb_box=\box33
+\g_tmpa_box=\box34
+\g_tmpb_box=\box35
+\l__box_top_dim=\dimen157
+\l__box_bottom_dim=\dimen158
+\l__box_left_dim=\dimen159
+\l__box_right_dim=\dimen160
+\l__box_top_new_dim=\dimen161
+\l__box_bottom_new_dim=\dimen162
+\l__box_left_new_dim=\dimen163
+\l__box_right_new_dim=\dimen164
+\l__box_internal_box=\box36
+\l__coffin_internal_box=\box37
+\l__coffin_internal_dim=\dimen165
+\l__coffin_offset_x_dim=\dimen166
+\l__coffin_offset_y_dim=\dimen167
+\l__coffin_x_dim=\dimen168
+\l__coffin_y_dim=\dimen169
+\l__coffin_x_prime_dim=\dimen170
+\l__coffin_y_prime_dim=\dimen171
+\c_empty_coffin=\box38
+\l__coffin_aligned_coffin=\box39
+\l__coffin_aligned_internal_coffin=\box40
+\l_tmpa_coffin=\box41
+\l_tmpb_coffin=\box42
+\g_tmpa_coffin=\box43
+\g_tmpb_coffin=\box44
+\l__coffin_bounding_shift_dim=\dimen172
+\l__coffin_left_corner_dim=\dimen173
+\l__coffin_right_corner_dim=\dimen174
+\l__coffin_bottom_corner_dim=\dimen175
+\l__coffin_top_corner_dim=\dimen176
+\l__coffin_scaled_total_height_dim=\dimen177
+\l__coffin_scaled_width_dim=\dimen178
+\c__coffin_empty_coffin=\box45
+\l__coffin_display_coffin=\box46
+\l__coffin_display_coord_coffin=\box47
+\l__coffin_display_pole_coffin=\box48
+\l__coffin_display_offset_dim=\dimen179
+\l__coffin_display_x_dim=\dimen180
+\l__coffin_display_y_dim=\dimen181
+\g__char_data_ior=\read2
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\l3deprecation.def"
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2019-04-06 v L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count270
+\l__pdf_internal_box=\box49
+))
+Package: xparse 2019-05-28 L3 Experimental document co
